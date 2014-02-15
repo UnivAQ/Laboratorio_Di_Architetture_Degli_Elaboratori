@@ -1,0 +1,8 @@
+Laboratorio Di Architetture Degli Elaboratori - 2007/2008
+
+Project 6
+
+Marco D'Ettorre
+Gian Marco Cinalli
+
+Compatible with the MARS emulator [http://courses.missouristate.edu/KenVollmar/MARS/]
